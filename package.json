@@ -1,6 +1,6 @@
 {
   "name": "strapi-plugin-ckeditor-video",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Integrates CKEditor 5 into your Strapi project as a fully customizable custom field. You can also insert video from Media Library. (Unofficial integration)",
   "private": false,
   "keywords": [
