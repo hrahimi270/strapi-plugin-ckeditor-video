@@ -4,7 +4,7 @@ const pluginId = require("../admin/src/utils/pluginId");
 
 module.exports = ({ strapi }) => {
   strapi.customFields.register({
-    name: 'CKEditor',
+    name: 'CKEditorVideo',
     plugin: pluginId,
     type: 'richtext'
   })
