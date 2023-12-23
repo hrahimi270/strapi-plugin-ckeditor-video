@@ -37,7 +37,7 @@ export default {
     }
  
      app.customFields.register({
-       name: "CKEditor 5 Video",
+       name: "CKEditor5Video",
        type: "richtext",
        pluginId: pluginId,
        icon: CKEditorIcon,
